@@ -43,6 +43,7 @@ Create a simple game.
 
 ## Screenshot
 
-(./imgs/Mario%2001.png)
+<img src="https://raw.githubusercontent.com/baconzin/MarioBrossGame/main/imgs/Mario%2001.png">
+<img src="https://raw.githubusercontent.com/baconzin/MarioBrossGame/main/imgs/Mario%2002.png">
 (./imgs/Mario%2002.png)
 
