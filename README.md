@@ -48,6 +48,6 @@ Create a simple game.
 
 ### Game Ends
 
-<img src="https://raw.githubusercontent.com/baconzin/MarioBrossGame/main/imgs/Mario%2002.png">
+<img width=450 src="https://raw.githubusercontent.com/baconzin/MarioBrossGame/main/imgs/Mario%2002.png">
 
 
